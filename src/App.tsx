@@ -7,6 +7,7 @@ export function App() {
         incidunt dolor voluptate distinctio totam facere quod? Ea deserunt,
         ullam quos a atque alias illo libero modi, voluptas, nam fugiat!
       </p>
+      <p>teste</p>
     </>
   );
 }
